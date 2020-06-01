@@ -9,3 +9,4 @@ resource "scalr_workspace" "ws" {
 }
 
 
+
