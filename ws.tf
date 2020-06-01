@@ -7,3 +7,4 @@ resource "scalr_workspace" "ws" {
     oauth_token_id = "vcs-stplc9ecmtv02j8"
   }
 }
+
